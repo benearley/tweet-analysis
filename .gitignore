@@ -1,0 +1,11 @@
+.idea/
+
+*.iml
+*.classpath
+*.project
+dependency-reduced-pom.xml
+twitter4j.properties
+
+overlays/
+
+target/
